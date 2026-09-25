@@ -1,5 +1,5 @@
 #include <iostream> 
 int main() { 
-std::cout << "Hello, my name is Kate. I am from IU5 13/4!" << std::endl; 
+std::cout << "Update message" << std::endl; 
 return 0; 
 } 
